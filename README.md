@@ -2,7 +2,7 @@
 Public collection of VFX related textures that I (Linty) have created.
 
 These textures are 100% free to use by anyone for any purpose.
-No credit is required, go nuts.
+No credit is required, go nuts. Just don't claim that you made these yourself.
 
 Apologies if my organization is messy.
 
